@@ -1,18 +1,11 @@
 ---
 layout: page
 permalink: /visiting/
-title: visiting
+title: Visiting
 horizontal: false
 nav: true
 ---
-<h2>email</h2>
-wupco1996[at]gmail[d0t]com <br>
-<h2>twitter</h2>
-https://twitter.com/wupco1996 <br>
-<h2>github</h2>
-https://github.com/wupco <br>
-<h2>blog in CN</h2>
-http://www.wupco.cn/<br>
+
 <h2>address</h2>
 Mudd Hall <br>
 2233 Tech Drive, Third Floor <br>
