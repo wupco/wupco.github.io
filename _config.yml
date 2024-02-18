@@ -115,9 +115,9 @@ collections:
 news_limit: 5
 
 news:
-  - title: "First News"
-    inline: true
+  - inline: true
     content: "This is the first news item. It is a great news item."
+    date: 2021-01-01
   
 # -----------------------------------------------------------------------------
 # Jekyll settings
